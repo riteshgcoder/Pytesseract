@@ -1,5 +1,6 @@
 # Pytesseract
 Converting images into text using pytesseract.
+[![HitCount](http://hits.dwyl.com/riteshgcoder/Pytesseract.svg)](http://hits.dwyl.com/riteshgcoder/Pytesseract)
 
 𝐏𝐲𝐭𝐡𝐨𝐧-𝐭𝐞𝐬𝐬𝐞𝐫𝐚𝐜𝐭 is an optical character recognition (OCR) tool for python. That is, it will recognize and “read” the text embedded in images. Python-tesseract is a wrapper for Google's Tesseract-OCR Engine.
 
